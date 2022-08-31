@@ -12,7 +12,7 @@ module.exports = {
       options: {
         typeName: "WPGraphQL",
         fieldName: "wpgraphql",
-        url: "http://demogatsby.local/graphql",
+        url: "https://demo-gatsby.allservice.in.net/graphql",
 
     },
     },
